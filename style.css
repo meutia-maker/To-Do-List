@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(./images/awan5.jpeg);
+    background: url(./images/awan5.jpg);
     background-size: cover; /* biar 1 gambar full */
     background-position: center;
     background-repeat: no-repeat;
@@ -259,4 +259,5 @@ body {
     #task-list li {
         font-size: 1rem ;
     }
+
 }
